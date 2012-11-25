@@ -1,0 +1,27 @@
+var class_assembly_unbuild =
+[
+    [ "$binNumbers", "class_assembly_unbuild.html#a3af620ce2c49c9153e27e3066781f6e8", null ],
+    [ "$built", "class_assembly_unbuild.html#addacca87ec0ead0cfa57cd0d94717801", null ],
+    [ "$class", "class_assembly_unbuild.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$componentList", "class_assembly_unbuild.html#a2a955f80b50405b83947241908a9d34c", null ],
+    [ "$createdDate", "class_assembly_unbuild.html#a03ce3406c0b7fbb08318583c37ac2279", null ],
+    [ "$customFieldList", "class_assembly_unbuild.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$customForm", "class_assembly_unbuild.html#adff44ea8e5c5af3fc41da4f090350490", null ],
+    [ "$department", "class_assembly_unbuild.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$externalId", "class_assembly_unbuild.html#a81ca4c05e38f38b359335ddf9d52b8c1", null ],
+    [ "$internalId", "class_assembly_unbuild.html#a5c30554bb7bd3dbca941628ca393757d", null ],
+    [ "$inventoryDetail", "class_assembly_unbuild.html#a46d01d976d1d65c22433755ef1692e9a", null ],
+    [ "$item", "class_assembly_unbuild.html#aa61b415cee119a7511e05c405ecd0b32", null ],
+    [ "$lastModifiedDate", "class_assembly_unbuild.html#a56c57d0e66450e554e2cf5875e4a4037", null ],
+    [ "$location", "class_assembly_unbuild.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$memo", "class_assembly_unbuild.html#a4ed302f6d17ec82f553fbd029e52ab7e", null ],
+    [ "$paramtypesmap", "class_assembly_unbuild.html#a01459af781c1406a4f712cb5a413806e", null ],
+    [ "$postingPeriod", "class_assembly_unbuild.html#af7e4d214cced46f5f545907b7405e051", null ],
+    [ "$quantity", "class_assembly_unbuild.html#a0d55a203c1637a8bee49083254bb6574", null ],
+    [ "$serialNumbers", "class_assembly_unbuild.html#a8dd916ca493448c040f5d2cdcc9d349f", null ],
+    [ "$subsidiary", "class_assembly_unbuild.html#aaaabf5afc32e6d0886ced64c08a29f6c", null ],
+    [ "$total", "class_assembly_unbuild.html#a241b818f48030b628685b2e5119c5624", null ],
+    [ "$tranDate", "class_assembly_unbuild.html#a8162ca55d33892b3b5af4181b2533b61", null ],
+    [ "$tranId", "class_assembly_unbuild.html#a3a4174a66609bab3b637d377e5c441dc", null ],
+    [ "$units", "class_assembly_unbuild.html#abab3f33128592840c23918fe3999185a", null ]
+];

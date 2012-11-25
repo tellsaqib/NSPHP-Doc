@@ -1,0 +1,28 @@
+var class_check_item =
+[
+    [ "$amount", "class_check_item.html#af48fe050f529b6ca56356299183b7778", null ],
+    [ "$binNumbers", "class_check_item.html#a3af620ce2c49c9153e27e3066781f6e8", null ],
+    [ "$class", "class_check_item.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$customer", "class_check_item.html#a91ac62360b857061af9eb3dc8f993e93", null ],
+    [ "$customFieldList", "class_check_item.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$department", "class_check_item.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$description", "class_check_item.html#a87b032cba06009e3467abf1c8018d960", null ],
+    [ "$expirationDate", "class_check_item.html#a36425bf46b3b20090e92b3cc8d5bb232", null ],
+    [ "$grossAmt", "class_check_item.html#a366a1a673f9fad35ffce51d0f2cd5f2a", null ],
+    [ "$inventoryDetail", "class_check_item.html#a46d01d976d1d65c22433755ef1692e9a", null ],
+    [ "$isBillable", "class_check_item.html#aacebb37b482214d05147fb12aad11dd4", null ],
+    [ "$item", "class_check_item.html#aa61b415cee119a7511e05c405ecd0b32", null ],
+    [ "$line", "class_check_item.html#a52f469b0182d9abac2d0f20548680c9c", null ],
+    [ "$location", "class_check_item.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$options", "class_check_item.html#a011800c63ece4cbbfa77136a20607023", null ],
+    [ "$paramtypesmap", "class_check_item.html#a01459af781c1406a4f712cb5a413806e", null ],
+    [ "$quantity", "class_check_item.html#a0d55a203c1637a8bee49083254bb6574", null ],
+    [ "$rate", "class_check_item.html#a43258b53ea81b11ddeaf07696ef60e26", null ],
+    [ "$serialNumbers", "class_check_item.html#a8dd916ca493448c040f5d2cdcc9d349f", null ],
+    [ "$tax1Amt", "class_check_item.html#a1dab7dc1abc0968d02aa2e23f01cf5ee", null ],
+    [ "$taxCode", "class_check_item.html#adfcb6f72b5c420ca1ec79445496d53cb", null ],
+    [ "$taxRate1", "class_check_item.html#a5c2e14ff9db3405b42187394d408bf30", null ],
+    [ "$taxRate2", "class_check_item.html#ac14b31d39e4268b3b5b708cb2822310d", null ],
+    [ "$units", "class_check_item.html#abab3f33128592840c23918fe3999185a", null ],
+    [ "$vendorName", "class_check_item.html#a786d2cdbfe5fee61272b63d1977d08c9", null ]
+];

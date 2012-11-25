@@ -1,0 +1,26 @@
+var class_subsidiary_search_basic =
+[
+    [ "$address", "class_subsidiary_search_basic.html#afaef812b1a73e88089d4b7e5e151bc29", null ],
+    [ "$city", "class_subsidiary_search_basic.html#a5b9ddd3e3a69d8901270064346bdef49", null ],
+    [ "$country", "class_subsidiary_search_basic.html#a1437a5f6eb157f0eb267a26e0ad4f1ba", null ],
+    [ "$currency", "class_subsidiary_search_basic.html#a37d22fd3b896e9d5488f3479a4d8f451", null ],
+    [ "$customFieldList", "class_subsidiary_search_basic.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$email", "class_subsidiary_search_basic.html#ad634f418b20382e2802f80532d76d3cd", null ],
+    [ "$externalId", "class_subsidiary_search_basic.html#a81ca4c05e38f38b359335ddf9d52b8c1", null ],
+    [ "$externalIdString", "class_subsidiary_search_basic.html#a7339fc81dbfde1a84d26080f0d271e07", null ],
+    [ "$fax", "class_subsidiary_search_basic.html#a1d4b86a559828926b1d8abbd581932ce", null ],
+    [ "$internalId", "class_subsidiary_search_basic.html#a5c30554bb7bd3dbca941628ca393757d", null ],
+    [ "$internalIdNumber", "class_subsidiary_search_basic.html#afa963be38bd7dd90b02ff2e6a023c676", null ],
+    [ "$isElimination", "class_subsidiary_search_basic.html#aabbb8998a3ac4e9f1ff8372524b42b1b", null ],
+    [ "$isInactive", "class_subsidiary_search_basic.html#adbbb2ad9356910bd52c03b9096211760", null ],
+    [ "$legalName", "class_subsidiary_search_basic.html#a0e18a33458cba6922b1a0281cf0a4673", null ],
+    [ "$name", "class_subsidiary_search_basic.html#ab2fc40d43824ea3e1ce5d86dee0d763b", null ],
+    [ "$nameNoHierarchy", "class_subsidiary_search_basic.html#ab6c3d60766a022aaadd422608a51fa1e", null ],
+    [ "$paramtypesmap", "class_subsidiary_search_basic.html#a01459af781c1406a4f712cb5a413806e", null ],
+    [ "$phone", "class_subsidiary_search_basic.html#afca642079313f7c6c3f8d4368f779882", null ],
+    [ "$state", "class_subsidiary_search_basic.html#ae82306c4f2d17d8dd5c7d8d916b33bed", null ],
+    [ "$taxIdNum", "class_subsidiary_search_basic.html#aa53fde571b7ba2cfacf17422b92b68ba", null ],
+    [ "$tranPrefix", "class_subsidiary_search_basic.html#ab222044c07ac5ed99784e376d9bf7657", null ],
+    [ "$url", "class_subsidiary_search_basic.html#acf215f34a917d014776ce684a9ee8909", null ],
+    [ "$zip", "class_subsidiary_search_basic.html#aa91be3142812d8cd4221c6f54555079b", null ]
+];
