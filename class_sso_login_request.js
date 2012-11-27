@@ -1,5 +1,0 @@
-var class_sso_login_request =
-[
-    [ "$paramtypesmap", "class_sso_login_request.html#a01459af781c1406a4f712cb5a413806e", null ],
-    [ "$ssoPassport", "class_sso_login_request.html#a8d6f4ddb1ada01ce9ce974d90ad083ed", null ]
-];

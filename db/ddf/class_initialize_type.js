@@ -1,0 +1,25 @@
+var class_initialize_type =
+[
+    [ "$paramtypesmap", "db/ddf/class_initialize_type.html#a01459af781c1406a4f712cb5a413806e", null ],
+    [ "assemblyBuild", "db/ddf/class_initialize_type.html#a131508b1fe88274f3c27ac5ad7f1e071", null ],
+    [ "assemblyUnbuild", "db/ddf/class_initialize_type.html#a31ad48c4b2f8c353f39c531aa720b179", null ],
+    [ "binWorksheet", "db/ddf/class_initialize_type.html#a5e10d78a5d68b22becce29456a512d4d", null ],
+    [ "cashRefund", "db/ddf/class_initialize_type.html#a0093448ccbfae85cf7be7262ca4c12af", null ],
+    [ "cashSale", "db/ddf/class_initialize_type.html#a6c704d2bdf318548b040821a4fd34a02", null ],
+    [ "creditMemo", "db/ddf/class_initialize_type.html#acee1abad922129be946a5f9025230f6b", null ],
+    [ "customerPayment", "db/ddf/class_initialize_type.html#a67ad1e7cdc2edca3af0e4e9045810e1a", null ],
+    [ "customerRefund", "db/ddf/class_initialize_type.html#af2a7284e44b29314847b92e000a2653f", null ],
+    [ "depositApplication", "db/ddf/class_initialize_type.html#a5a3c551aea4194e5c15917406dcacf84", null ],
+    [ "estimate", "db/ddf/class_initialize_type.html#a5a7426668e252b06d8d63a5e14509467", null ],
+    [ "inventoryTransfer", "db/ddf/class_initialize_type.html#a25868825229aecc7d448eda84ae5763f", null ],
+    [ "invoice", "db/ddf/class_initialize_type.html#a9e6537a629c962c8e77c2508268c1ad2", null ],
+    [ "itemFulfillment", "db/ddf/class_initialize_type.html#ab5aeaf8ae383620e27f079d6e1142b0e", null ],
+    [ "itemReceipt", "db/ddf/class_initialize_type.html#a07ee4d50c62f5401a1474bd1d38198e1", null ],
+    [ "returnAuthorization", "db/ddf/class_initialize_type.html#a5d53f2dacedb963acde553c87c5ab25e", null ],
+    [ "salesOrder", "db/ddf/class_initialize_type.html#aa0985e613db40da4eaf2358a030e22b5", null ],
+    [ "vendorBill", "db/ddf/class_initialize_type.html#a5d75beba3a7608e8c5805424d300bcc5", null ],
+    [ "vendorCredit", "db/ddf/class_initialize_type.html#a67a702b8626c628a3f9956fa49142914", null ],
+    [ "vendorPayment", "db/ddf/class_initialize_type.html#a3a09210496e1aaae70030404cca78bd8", null ],
+    [ "vendorReturnAuthorization", "db/ddf/class_initialize_type.html#aa6a7b34a7535b62dde7b4cb826de25b4", null ],
+    [ "workOrder", "db/ddf/class_initialize_type.html#aee5e10cee46a9c37297a47cc6e2f365e", null ]
+];

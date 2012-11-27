@@ -1,0 +1,27 @@
+var class_fault_code_type =
+[
+    [ "$paramtypesmap", "d8/d26/class_fault_code_type.html#a01459af781c1406a4f712cb5a413806e", null ],
+    [ "ACCT_TEMP_UNAVAILABLE", "d8/d26/class_fault_code_type.html#ae07c69a7bae050c01f4ba0cc2e50aefa", null ],
+    [ "EMAIL_ADDRS_REQD", "d8/d26/class_fault_code_type.html#acf1ecf5fe79b64bd56244ae402c86bf9", null ],
+    [ "INVALID_ACCT", "d8/d26/class_fault_code_type.html#a64a463b1793debaad7cdf3ed50c228e2", null ],
+    [ "INVALID_JOB_ID", "d8/d26/class_fault_code_type.html#ad34f5a96b5901bfa481ba31b9e5de4c4", null ],
+    [ "INVALID_LOGIN_CREDENTIALS", "d8/d26/class_fault_code_type.html#a1cf1fff6e4dbff5a87a3b35f26c97afb", null ],
+    [ "INVALID_PAGE_INDEX", "d8/d26/class_fault_code_type.html#ad1ec10976a98e536be20e27d6a9172c2", null ],
+    [ "INVALID_ROLE", "d8/d26/class_fault_code_type.html#a872b551c64952b8e1733a4e9cc5f3276", null ],
+    [ "INVALID_WS_VERSION", "d8/d26/class_fault_code_type.html#aee505a1bbd6fde6ff3ea7772bfc6ccb8", null ],
+    [ "JOB_NOT_COMPLETE", "d8/d26/class_fault_code_type.html#a30e3472986c218a10bed2dceb7cbc01c", null ],
+    [ "LOGIN_DISABLED", "d8/d26/class_fault_code_type.html#a1f006ad53fa556f570624b3176843939", null ],
+    [ "MAX_RCRDS_EXCEEDED", "d8/d26/class_fault_code_type.html#ade148bd7a00b9e2c8787ed91d8f2715a", null ],
+    [ "OI_FEATURE_REQD", "d8/d26/class_fault_code_type.html#a37adc6df4fbbfd4dc43a109d18949e4c", null ],
+    [ "OI_PERMISSION_REQD", "d8/d26/class_fault_code_type.html#ae362e03303f89a38700d65c30b60f23b", null ],
+    [ "PSWD_REQD", "d8/d26/class_fault_code_type.html#a7f151ed32095cf11ed888b15dbc5a66a", null ],
+    [ "ROLE_REQUIRED", "d8/d26/class_fault_code_type.html#abbd790f9f72540e46c09ed53df0437e0", null ],
+    [ "SESSION_TIMED_OUT", "d8/d26/class_fault_code_type.html#ab83cc4af68fb2950a1c19b97f5c20fb3", null ],
+    [ "UNEXPECTED_ERROR", "d8/d26/class_fault_code_type.html#aa9b2b4200958aeb1bfb51bd9eb4e942f", null ],
+    [ "UNSUPPORTED_WS_VERSION", "d8/d26/class_fault_code_type.html#a57e85878f980970e95ff276c986c8300", null ],
+    [ "USER_ERROR", "d8/d26/class_fault_code_type.html#a935478d814dd767b84f644b820fbecb4", null ],
+    [ "WS_CONCUR_SESSION_DISALLWD", "d8/d26/class_fault_code_type.html#a389542ecd9c4f19792bbdee597549f26", null ],
+    [ "WS_FEATURE_REQD", "d8/d26/class_fault_code_type.html#ac61d89946f2448884c96f6c955c60f20", null ],
+    [ "WS_LOG_IN_REQD", "d8/d26/class_fault_code_type.html#a4b59a99c5d2e42b0d704da9d6cfea838", null ],
+    [ "WS_PERMISSION_REQD", "d8/d26/class_fault_code_type.html#af48656e8d4e32533b8c2bb67f9c91e1b", null ]
+];
