@@ -1,0 +1,25 @@
+var class_deposit =
+[
+    [ "$account", "class_deposit.html#a19ec872392da5d6131f9ad03b6c98339", null ],
+    [ "$cashBackList", "class_deposit.html#aaed1aa645aac2576dd15761f8fecdf84", null ],
+    [ "$class", "class_deposit.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$createdDate", "class_deposit.html#a03ce3406c0b7fbb08318583c37ac2279", null ],
+    [ "$currencyName", "class_deposit.html#a3b9fe12d064677075c17a4491ae7d3bd", null ],
+    [ "$customFieldList", "class_deposit.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$customForm", "class_deposit.html#adff44ea8e5c5af3fc41da4f090350490", null ],
+    [ "$department", "class_deposit.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$exchangeRate", "class_deposit.html#aa1cb1bc211668d2288f0eddb09500d9c", null ],
+    [ "$externalId", "class_deposit.html#a81ca4c05e38f38b359335ddf9d52b8c1", null ],
+    [ "$internalId", "class_deposit.html#a5c30554bb7bd3dbca941628ca393757d", null ],
+    [ "$lastModifiedDate", "class_deposit.html#a56c57d0e66450e554e2cf5875e4a4037", null ],
+    [ "$location", "class_deposit.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$memo", "class_deposit.html#a4ed302f6d17ec82f553fbd029e52ab7e", null ],
+    [ "$otherList", "class_deposit.html#adbe71f92b98435b383280646ededbd88", null ],
+    [ "$paymentList", "class_deposit.html#a6c1a85cb5bcf5031c1eed5dc9613550c", null ],
+    [ "$postingPeriod", "class_deposit.html#af7e4d214cced46f5f545907b7405e051", null ],
+    [ "$subsidiary", "class_deposit.html#aaaabf5afc32e6d0886ced64c08a29f6c", null ],
+    [ "$toBePrinted", "class_deposit.html#a9528ed290dc5cff2ecad9558dc2d6c69", null ],
+    [ "$total", "class_deposit.html#a241b818f48030b628685b2e5119c5624", null ],
+    [ "$tranDate", "class_deposit.html#a8162ca55d33892b3b5af4181b2533b61", null ],
+    [ "$tranId", "class_deposit.html#a3a4174a66609bab3b637d377e5c441dc", null ]
+];

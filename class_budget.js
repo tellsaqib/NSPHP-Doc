@@ -1,0 +1,28 @@
+var class_budget =
+[
+    [ "$account", "class_budget.html#a19ec872392da5d6131f9ad03b6c98339", null ],
+    [ "$amount", "class_budget.html#af48fe050f529b6ca56356299183b7778", null ],
+    [ "$budgetType", "class_budget.html#ab95712e7c13275e6c543df79d21eb1da", null ],
+    [ "$category", "class_budget.html#a18b2a8d133fa7733bf34abcc6ca2ef5b", null ],
+    [ "$class", "class_budget.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$currency", "class_budget.html#a37d22fd3b896e9d5488f3479a4d8f451", null ],
+    [ "$customer", "class_budget.html#a91ac62360b857061af9eb3dc8f993e93", null ],
+    [ "$department", "class_budget.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$internalId", "class_budget.html#a5c30554bb7bd3dbca941628ca393757d", null ],
+    [ "$item", "class_budget.html#aa61b415cee119a7511e05c405ecd0b32", null ],
+    [ "$location", "class_budget.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$periodAmount1", "class_budget.html#a6249f8b7e9dfb928359239dede39a326", null ],
+    [ "$periodAmount10", "class_budget.html#af1c0d7b4d04686a058792459ebed50fa", null ],
+    [ "$periodAmount11", "class_budget.html#a04d1b616b688f1b524c26c8f5f0bd1b1", null ],
+    [ "$periodAmount12", "class_budget.html#a6717b5c16ec4adbf969f291c147d685f", null ],
+    [ "$periodAmount2", "class_budget.html#af0dd892e811ced21420f47e64d096108", null ],
+    [ "$periodAmount3", "class_budget.html#a838a2af797971f1316818634c0b1ed8b", null ],
+    [ "$periodAmount4", "class_budget.html#af48cbe7e3cc2ced2bd62283b336b73e8", null ],
+    [ "$periodAmount5", "class_budget.html#ae6e3723d4190b87a40f417c25bcf00ad", null ],
+    [ "$periodAmount6", "class_budget.html#a87f6162c7bb9399cbff391149074cd54", null ],
+    [ "$periodAmount7", "class_budget.html#a51306d1e814a8deafdf617cc77e42136", null ],
+    [ "$periodAmount8", "class_budget.html#a91edc50dcdd8fe211b6a49ce65f5b310", null ],
+    [ "$periodAmount9", "class_budget.html#abc0b706cc7bdd66c1333a1d2204de604", null ],
+    [ "$subsidiary", "class_budget.html#aaaabf5afc32e6d0886ced64c08a29f6c", null ],
+    [ "$year", "class_budget.html#a8e992d901ac2312b3be2021ddbb7d11e", null ]
+];

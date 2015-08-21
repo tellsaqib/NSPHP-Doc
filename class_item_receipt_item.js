@@ -1,0 +1,28 @@
+var class_item_receipt_item =
+[
+    [ "$billVarianceStatus", "class_item_receipt_item.html#a9abf98933df17f1a27b6b43d5eb8e490", null ],
+    [ "$binNumbers", "class_item_receipt_item.html#a3af620ce2c49c9153e27e3066781f6e8", null ],
+    [ "$currency", "class_item_receipt_item.html#a37d22fd3b896e9d5488f3479a4d8f451", null ],
+    [ "$customFieldList", "class_item_receipt_item.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$description", "class_item_receipt_item.html#a87b032cba06009e3467abf1c8018d960", null ],
+    [ "$expirationDate", "class_item_receipt_item.html#a36425bf46b3b20090e92b3cc8d5bb232", null ],
+    [ "$inventoryDetail", "class_item_receipt_item.html#a46d01d976d1d65c22433755ef1692e9a", null ],
+    [ "$isDropShipment", "class_item_receipt_item.html#aa81b7b5e4994ec31c4c4c1cb1832f562", null ],
+    [ "$item", "class_item_receipt_item.html#aa61b415cee119a7511e05c405ecd0b32", null ],
+    [ "$itemName", "class_item_receipt_item.html#a2cb56221c4c34e836d5395dfe1fc0db9", null ],
+    [ "$itemReceive", "class_item_receipt_item.html#a6b23268cd661cec0ed767a6521fa4ade", null ],
+    [ "$jobName", "class_item_receipt_item.html#a5d54e5de4287d0accbf830aca6e2cd41", null ],
+    [ "$landedCost", "class_item_receipt_item.html#ad3e033c7af976928ccaeec881ecd6c5e", null ],
+    [ "$line", "class_item_receipt_item.html#a52f469b0182d9abac2d0f20548680c9c", null ],
+    [ "$location", "class_item_receipt_item.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$onHand", "class_item_receipt_item.html#a7e9337b2e01a2c3bc178efc7097551f8", null ],
+    [ "$options", "class_item_receipt_item.html#a011800c63ece4cbbfa77136a20607023", null ],
+    [ "$orderLine", "class_item_receipt_item.html#a8536383e8746a2488e63b96d38cd0176", null ],
+    [ "$quantity", "class_item_receipt_item.html#a0d55a203c1637a8bee49083254bb6574", null ],
+    [ "$quantityRemaining", "class_item_receipt_item.html#a9da1d59b783c64a0fd4287030444a1c2", null ],
+    [ "$rate", "class_item_receipt_item.html#a43258b53ea81b11ddeaf07696ef60e26", null ],
+    [ "$restock", "class_item_receipt_item.html#aced005dbf7a59a9cb3461364ba7516e9", null ],
+    [ "$serialNumbers", "class_item_receipt_item.html#a8dd916ca493448c040f5d2cdcc9d349f", null ],
+    [ "$unitCostOverride", "class_item_receipt_item.html#a7d7796950c7ee2e7524f55fc08698d56", null ],
+    [ "$unitsDisplay", "class_item_receipt_item.html#a2712b2184cede74c5c920216b2421f15", null ]
+];

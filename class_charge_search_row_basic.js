@@ -1,0 +1,26 @@
+var class_charge_search_row_basic =
+[
+    [ "$amount", "class_charge_search_row_basic.html#af48fe050f529b6ca56356299183b7778", null ],
+    [ "$billingItem", "class_charge_search_row_basic.html#aa0a5b4f7289540605970102739e599b2", null ],
+    [ "$billTo", "class_charge_search_row_basic.html#a544a87df21daf8bef54c3c982ed2517d", null ],
+    [ "$chargeDate", "class_charge_search_row_basic.html#a2824e392f45368a257d8f93e75d56a12", null ],
+    [ "$chargeType", "class_charge_search_row_basic.html#a2236205c3947966b73aeacda5ba308da", null ],
+    [ "$class", "class_charge_search_row_basic.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$createdDate", "class_charge_search_row_basic.html#a03ce3406c0b7fbb08318583c37ac2279", null ],
+    [ "$currency", "class_charge_search_row_basic.html#a37d22fd3b896e9d5488f3479a4d8f451", null ],
+    [ "$customFieldList", "class_charge_search_row_basic.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$department", "class_charge_search_row_basic.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$description", "class_charge_search_row_basic.html#a87b032cba06009e3467abf1c8018d960", null ],
+    [ "$externalId", "class_charge_search_row_basic.html#a81ca4c05e38f38b359335ddf9d52b8c1", null ],
+    [ "$internalId", "class_charge_search_row_basic.html#a5c30554bb7bd3dbca941628ca393757d", null ],
+    [ "$location", "class_charge_search_row_basic.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$modifiedDate", "class_charge_search_row_basic.html#ae3672ad677fc6c5dc42b26a24a99761d", null ],
+    [ "$postingPeriod", "class_charge_search_row_basic.html#af7e4d214cced46f5f545907b7405e051", null ],
+    [ "$quantity", "class_charge_search_row_basic.html#a0d55a203c1637a8bee49083254bb6574", null ],
+    [ "$rate", "class_charge_search_row_basic.html#a43258b53ea81b11ddeaf07696ef60e26", null ],
+    [ "$rule", "class_charge_search_row_basic.html#a85b0fb17593555da65ddd33db4ad8444", null ],
+    [ "$runId", "class_charge_search_row_basic.html#a3dd3f6761824a57bc5d6de697893c381", null ],
+    [ "$salesOrder", "class_charge_search_row_basic.html#a895f0bc0c092a6d7ce17554bb99872fa", null ],
+    [ "$stage", "class_charge_search_row_basic.html#ae38afcd5168ac55254b2537553636063", null ],
+    [ "$use", "class_charge_search_row_basic.html#a0eaf1d2f9665a59a91b819385523b892", null ]
+];

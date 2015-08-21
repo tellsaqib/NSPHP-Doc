@@ -1,0 +1,28 @@
+var class_expense_report_expense =
+[
+    [ "$amount", "class_expense_report_expense.html#af48fe050f529b6ca56356299183b7778", null ],
+    [ "$category", "class_expense_report_expense.html#a18b2a8d133fa7733bf34abcc6ca2ef5b", null ],
+    [ "$class", "class_expense_report_expense.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$currency", "class_expense_report_expense.html#a37d22fd3b896e9d5488f3479a4d8f451", null ],
+    [ "$customer", "class_expense_report_expense.html#a91ac62360b857061af9eb3dc8f993e93", null ],
+    [ "$customFieldList", "class_expense_report_expense.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$department", "class_expense_report_expense.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$exchangeRate", "class_expense_report_expense.html#aa1cb1bc211668d2288f0eddb09500d9c", null ],
+    [ "$expenseDate", "class_expense_report_expense.html#a7dadda522e1d17b74d1d87893681b4ba", null ],
+    [ "$expMediaItem", "class_expense_report_expense.html#a4680351e74514a91703c26f05de30814", null ],
+    [ "$foreignAmount", "class_expense_report_expense.html#af2a7ea307899dab1d16120ed29cda585", null ],
+    [ "$grossAmt", "class_expense_report_expense.html#a366a1a673f9fad35ffce51d0f2cd5f2a", null ],
+    [ "$isBillable", "class_expense_report_expense.html#aacebb37b482214d05147fb12aad11dd4", null ],
+    [ "$isNonReimbursable", "class_expense_report_expense.html#acb1630daab04d59d1e03a970eb9929aa", null ],
+    [ "$line", "class_expense_report_expense.html#a52f469b0182d9abac2d0f20548680c9c", null ],
+    [ "$location", "class_expense_report_expense.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$memo", "class_expense_report_expense.html#a4ed302f6d17ec82f553fbd029e52ab7e", null ],
+    [ "$quantity", "class_expense_report_expense.html#a0d55a203c1637a8bee49083254bb6574", null ],
+    [ "$rate", "class_expense_report_expense.html#a43258b53ea81b11ddeaf07696ef60e26", null ],
+    [ "$receipt", "class_expense_report_expense.html#a956d88818a035b1fc67be8cd2fbe3ec2", null ],
+    [ "$refNumber", "class_expense_report_expense.html#ae7bd76c5cb482d24cb8b1004a6e8220c", null ],
+    [ "$tax1Amt", "class_expense_report_expense.html#a1dab7dc1abc0968d02aa2e23f01cf5ee", null ],
+    [ "$taxCode", "class_expense_report_expense.html#adfcb6f72b5c420ca1ec79445496d53cb", null ],
+    [ "$taxRate1", "class_expense_report_expense.html#a5c2e14ff9db3405b42187394d408bf30", null ],
+    [ "$taxRate2", "class_expense_report_expense.html#ac14b31d39e4268b3b5b708cb2822310d", null ]
+];

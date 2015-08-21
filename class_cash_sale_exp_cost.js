@@ -1,0 +1,25 @@
+var class_cash_sale_exp_cost =
+[
+    [ "$amount", "class_cash_sale_exp_cost.html#af48fe050f529b6ca56356299183b7778", null ],
+    [ "$apply", "class_cash_sale_exp_cost.html#a8dd85d20ada4cc49f97544a0fb381a0e", null ],
+    [ "$billedDate", "class_cash_sale_exp_cost.html#ad27900bdc3aafc960821d9abeec5e166", null ],
+    [ "$categoryDisp", "class_cash_sale_exp_cost.html#ac7675311a20ac87a58474a141dbf2679", null ],
+    [ "$class", "class_cash_sale_exp_cost.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$department", "class_cash_sale_exp_cost.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$doc", "class_cash_sale_exp_cost.html#afc5e9ce512cd97cf2e0e25bb20dcd39b", null ],
+    [ "$employeeDisp", "class_cash_sale_exp_cost.html#a0c8c66b1e603327dff995bfa0e5441e9", null ],
+    [ "$grossAmt", "class_cash_sale_exp_cost.html#a366a1a673f9fad35ffce51d0f2cd5f2a", null ],
+    [ "$jobDisp", "class_cash_sale_exp_cost.html#a71d6e9012fd24069f368ce70164fd113", null ],
+    [ "$line", "class_cash_sale_exp_cost.html#a52f469b0182d9abac2d0f20548680c9c", null ],
+    [ "$location", "class_cash_sale_exp_cost.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$memo", "class_cash_sale_exp_cost.html#a4ed302f6d17ec82f553fbd029e52ab7e", null ],
+    [ "$originalAmount", "class_cash_sale_exp_cost.html#a5fd2e93c5d5296557eb7b0e59caf4aab", null ],
+    [ "$revRecEndDate", "class_cash_sale_exp_cost.html#a80ac2d39ac6af00cd14ed22dc651c83f", null ],
+    [ "$revRecSchedule", "class_cash_sale_exp_cost.html#aa241a669e4cad5913d28ec08675685f7", null ],
+    [ "$revRecStartDate", "class_cash_sale_exp_cost.html#abc0fccfb53da6a275a68698140ca8e1f", null ],
+    [ "$tax1Amt", "class_cash_sale_exp_cost.html#a1dab7dc1abc0968d02aa2e23f01cf5ee", null ],
+    [ "$taxableDisp", "class_cash_sale_exp_cost.html#a70166867619d3683970adbdd4cb8325e", null ],
+    [ "$taxCode", "class_cash_sale_exp_cost.html#adfcb6f72b5c420ca1ec79445496d53cb", null ],
+    [ "$taxRate1", "class_cash_sale_exp_cost.html#a5c2e14ff9db3405b42187394d408bf30", null ],
+    [ "$taxRate2", "class_cash_sale_exp_cost.html#ac14b31d39e4268b3b5b708cb2822310d", null ]
+];

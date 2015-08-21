@@ -1,0 +1,28 @@
+var class_initialize_type =
+[
+    [ "assemblyBuild", "class_initialize_type.html#a131508b1fe88274f3c27ac5ad7f1e071", null ],
+    [ "assemblyUnbuild", "class_initialize_type.html#a31ad48c4b2f8c353f39c531aa720b179", null ],
+    [ "binWorksheet", "class_initialize_type.html#a5e10d78a5d68b22becce29456a512d4d", null ],
+    [ "cashRefund", "class_initialize_type.html#a0093448ccbfae85cf7be7262ca4c12af", null ],
+    [ "cashSale", "class_initialize_type.html#a6c704d2bdf318548b040821a4fd34a02", null ],
+    [ "creditMemo", "class_initialize_type.html#acee1abad922129be946a5f9025230f6b", null ],
+    [ "customerPayment", "class_initialize_type.html#a67ad1e7cdc2edca3af0e4e9045810e1a", null ],
+    [ "customerRefund", "class_initialize_type.html#af2a7284e44b29314847b92e000a2653f", null ],
+    [ "depositApplication", "class_initialize_type.html#a5a3c551aea4194e5c15917406dcacf84", null ],
+    [ "estimate", "class_initialize_type.html#a5a7426668e252b06d8d63a5e14509467", null ],
+    [ "inventoryTransfer", "class_initialize_type.html#a25868825229aecc7d448eda84ae5763f", null ],
+    [ "invoice", "class_initialize_type.html#a9e6537a629c962c8e77c2508268c1ad2", null ],
+    [ "itemFulfillment", "class_initialize_type.html#ab5aeaf8ae383620e27f079d6e1142b0e", null ],
+    [ "itemReceipt", "class_initialize_type.html#a07ee4d50c62f5401a1474bd1d38198e1", null ],
+    [ "purchaseOrder", "class_initialize_type.html#a43b1a44694fa8eb401510b1c54e25d31", null ],
+    [ "returnAuthorization", "class_initialize_type.html#a5d53f2dacedb963acde553c87c5ab25e", null ],
+    [ "salesOrder", "class_initialize_type.html#aa0985e613db40da4eaf2358a030e22b5", null ],
+    [ "vendorBill", "class_initialize_type.html#a5d75beba3a7608e8c5805424d300bcc5", null ],
+    [ "vendorCredit", "class_initialize_type.html#a67a702b8626c628a3f9956fa49142914", null ],
+    [ "vendorPayment", "class_initialize_type.html#a3a09210496e1aaae70030404cca78bd8", null ],
+    [ "vendorReturnAuthorization", "class_initialize_type.html#aa6a7b34a7535b62dde7b4cb826de25b4", null ],
+    [ "workOrder", "class_initialize_type.html#aee5e10cee46a9c37297a47cc6e2f365e", null ],
+    [ "workOrderClose", "class_initialize_type.html#ad15e00d8010fed6f8e1e3c581d1568f8", null ],
+    [ "workOrderCompletion", "class_initialize_type.html#a753b7816966a784c78c4d6f0876e8a5a", null ],
+    [ "workOrderIssue", "class_initialize_type.html#a28d0ce8ee7d75c6991f0317c59cedeef", null ]
+];

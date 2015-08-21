@@ -1,0 +1,28 @@
+var class_entity_group =
+[
+    [ "$comments", "class_entity_group.html#a35e8cdeb473a5eb016fea893d14de951", null ],
+    [ "$customFieldList", "class_entity_group.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$email", "class_entity_group.html#ad634f418b20382e2802f80532d76d3cd", null ],
+    [ "$externalId", "class_entity_group.html#a81ca4c05e38f38b359335ddf9d52b8c1", null ],
+    [ "$groupName", "class_entity_group.html#abe10c3a87a52e5c028b0c386a3c92e63", null ],
+    [ "$groupOwner", "class_entity_group.html#a51fe894a47015c07fc3694f1c7ec714c", null ],
+    [ "$groupType", "class_entity_group.html#a3596d6f211c627fdf8e957375dc2311c", null ],
+    [ "$internalId", "class_entity_group.html#a5c30554bb7bd3dbca941628ca393757d", null ],
+    [ "$isFunctionalTeam", "class_entity_group.html#ac314f931dc79ea2df9dd7d2dcb7820b7", null ],
+    [ "$isInactive", "class_entity_group.html#adbbb2ad9356910bd52c03b9096211760", null ],
+    [ "$isManufacturingWorkCenter", "class_entity_group.html#a6dee7c7482ab2795b1698e17b4059662", null ],
+    [ "$isPrivate", "class_entity_group.html#a43b17d26bf9f8ee51f8a4bca88cd6f1f", null ],
+    [ "$isProductTeam", "class_entity_group.html#ad56750883430a0983f764124f8e1da9a", null ],
+    [ "$isSalesRep", "class_entity_group.html#abedd0eb9f6f2187d5c9d623744e2206c", null ],
+    [ "$isSalesTeam", "class_entity_group.html#a348a7404834c636635cb3f121ffaf044", null ],
+    [ "$isSavedSearch", "class_entity_group.html#adef37a0f44585ba1aab069089111e6ab", null ],
+    [ "$issueRole", "class_entity_group.html#aea693e0149a412567a38ca81176b04da", null ],
+    [ "$isSupportRep", "class_entity_group.html#a06904ffdb02cc7b141de2036ef980486", null ],
+    [ "$laborResources", "class_entity_group.html#ac1ed7614300140806c19408f0cae0cd8", null ],
+    [ "$machineResources", "class_entity_group.html#a2477e342f066b4e71c777d00b9953a69", null ],
+    [ "$parentGroupType", "class_entity_group.html#a49285b92b093f72a2f57ba4f25a2b3b2", null ],
+    [ "$restrictionGroup", "class_entity_group.html#a8a759433d60f5a663f7af4b108d04419", null ],
+    [ "$savedSearch", "class_entity_group.html#aabc15ba078bbe213712319f9b9be3f70", null ],
+    [ "$subsidiary", "class_entity_group.html#aaaabf5afc32e6d0886ced64c08a29f6c", null ],
+    [ "$workCalendar", "class_entity_group.html#a21d54f964dad5a3c0c9d136cd5b2bf30", null ]
+];

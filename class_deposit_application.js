@@ -1,0 +1,27 @@
+var class_deposit_application =
+[
+    [ "$applied", "class_deposit_application.html#a51987ecc31f2aadd2e1981690d277336", null ],
+    [ "$applyList", "class_deposit_application.html#a6db97a711d9397bd4851b7e1655ad43d", null ],
+    [ "$arAcct", "class_deposit_application.html#a0036eeac0bc77ddefb5e4bc86ac05d5b", null ],
+    [ "$class", "class_deposit_application.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$createdDate", "class_deposit_application.html#a03ce3406c0b7fbb08318583c37ac2279", null ],
+    [ "$currency", "class_deposit_application.html#a37d22fd3b896e9d5488f3479a4d8f451", null ],
+    [ "$customer", "class_deposit_application.html#a91ac62360b857061af9eb3dc8f993e93", null ],
+    [ "$customFieldList", "class_deposit_application.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$department", "class_deposit_application.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$depDate", "class_deposit_application.html#a9b2c41b5205b5f8bcefeb59692aaf31b", null ],
+    [ "$deposit", "class_deposit_application.html#ab8459a5d202c4412763c1ee8d43a6877", null ],
+    [ "$exchangeRate", "class_deposit_application.html#aa1cb1bc211668d2288f0eddb09500d9c", null ],
+    [ "$externalId", "class_deposit_application.html#a81ca4c05e38f38b359335ddf9d52b8c1", null ],
+    [ "$internalId", "class_deposit_application.html#a5c30554bb7bd3dbca941628ca393757d", null ],
+    [ "$lastModifiedDate", "class_deposit_application.html#a56c57d0e66450e554e2cf5875e4a4037", null ],
+    [ "$location", "class_deposit_application.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$memo", "class_deposit_application.html#a4ed302f6d17ec82f553fbd029e52ab7e", null ],
+    [ "$postingPeriod", "class_deposit_application.html#af7e4d214cced46f5f545907b7405e051", null ],
+    [ "$status", "class_deposit_application.html#a58391ea75f2d29d5d708d7050b641c33", null ],
+    [ "$subsidiary", "class_deposit_application.html#aaaabf5afc32e6d0886ced64c08a29f6c", null ],
+    [ "$total", "class_deposit_application.html#a241b818f48030b628685b2e5119c5624", null ],
+    [ "$tranDate", "class_deposit_application.html#a8162ca55d33892b3b5af4181b2533b61", null ],
+    [ "$tranId", "class_deposit_application.html#a3a4174a66609bab3b637d377e5c441dc", null ],
+    [ "$unapplied", "class_deposit_application.html#aad9766409d04a7beeb12d0e90b278b2f", null ]
+];

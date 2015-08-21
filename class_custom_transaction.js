@@ -1,0 +1,25 @@
+var class_custom_transaction =
+[
+    [ "$accountingBookDetailList", "class_custom_transaction.html#a3657bb09a560838499907358bf8cfc25", null ],
+    [ "$class", "class_custom_transaction.html#a252ba022809910ea710a068fc1bab657", null ],
+    [ "$createdDate", "class_custom_transaction.html#a03ce3406c0b7fbb08318583c37ac2279", null ],
+    [ "$currency", "class_custom_transaction.html#a37d22fd3b896e9d5488f3479a4d8f451", null ],
+    [ "$customFieldList", "class_custom_transaction.html#aef04db341e5a4a97ecd225e525e8b2a2", null ],
+    [ "$customForm", "class_custom_transaction.html#adff44ea8e5c5af3fc41da4f090350490", null ],
+    [ "$department", "class_custom_transaction.html#af5cc7499478fa9b6d7f9670f6a8521a0", null ],
+    [ "$exchangeRate", "class_custom_transaction.html#aa1cb1bc211668d2288f0eddb09500d9c", null ],
+    [ "$externalId", "class_custom_transaction.html#a81ca4c05e38f38b359335ddf9d52b8c1", null ],
+    [ "$internalId", "class_custom_transaction.html#a5c30554bb7bd3dbca941628ca393757d", null ],
+    [ "$lastModifiedDate", "class_custom_transaction.html#a56c57d0e66450e554e2cf5875e4a4037", null ],
+    [ "$lineList", "class_custom_transaction.html#a6e43cb4d9a476882c35df6cc964b9230", null ],
+    [ "$location", "class_custom_transaction.html#ac319193077976bb217112e5a7b7b8022", null ],
+    [ "$memo", "class_custom_transaction.html#a4ed302f6d17ec82f553fbd029e52ab7e", null ],
+    [ "$postingPeriod", "class_custom_transaction.html#af7e4d214cced46f5f545907b7405e051", null ],
+    [ "$subsidiary", "class_custom_transaction.html#aaaabf5afc32e6d0886ced64c08a29f6c", null ],
+    [ "$total", "class_custom_transaction.html#a241b818f48030b628685b2e5119c5624", null ],
+    [ "$tranDate", "class_custom_transaction.html#a8162ca55d33892b3b5af4181b2533b61", null ],
+    [ "$tranId", "class_custom_transaction.html#a3a4174a66609bab3b637d377e5c441dc", null ],
+    [ "$tranStatus", "class_custom_transaction.html#a73e9782db4111d3bcda5c39a39e37125", null ],
+    [ "$tranType", "class_custom_transaction.html#a2972bf14b8421f745db761fbb2ea714a", null ],
+    [ "$voidJournal", "class_custom_transaction.html#a64e4f284a261a57211c9c3908658b860", null ]
+];
